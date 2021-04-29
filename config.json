@@ -5,8 +5,8 @@
     },
 
     "server": {
-        "host": "localhost",
-        "port": 25565
+        "host": "redesoy.maternos.me",
+        "port": 56971
     },
 
     "afkbot": {
