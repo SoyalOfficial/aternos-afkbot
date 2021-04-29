@@ -4,8 +4,8 @@
 	"name": "Dyno993"
 
 "message-on-interval": {
-        "enable": false,
-        "interval": 10000,
+        "enable": true,
+        "interval": 6000,
         "message": "I am an AFKBot"
-    }
+    },
 }
