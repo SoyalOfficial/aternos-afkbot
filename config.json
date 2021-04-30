@@ -1,11 +1,5 @@
 {
 	"ip":"redesoy.aternos.me",
 	"port": "56971",
-	"name": "Dyno993"
-
-"message-on-interval": {
-        "enable": true,
-        "interval": 6000,
-        "message": "I am an AFKBot"
-    },
+	"name": "Dyno993",
 }
